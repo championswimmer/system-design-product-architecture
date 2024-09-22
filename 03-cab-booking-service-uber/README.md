@@ -70,3 +70,6 @@ update location (heartbeat; 10s)
 
 ## Design 
 
+<img width="1005" alt="image" src="https://github.com/user-attachments/assets/b851b00b-4502-4eff-8cc0-361a6a71dd23">
+
+
